@@ -1,0 +1,6 @@
+[en]
+title = "Wind in the head"
+description = "Hi there! I'm Margo and this is my blog. If you read it inverted, you will follow an inspiring story how I started my carrer as software developer im the Netherlands"
+contentDir = "content/en"
+weight = 1
+LanguageName = "EN"

@@ -1,0 +1,52 @@
+portfolioitems:
+# portfolio category
+- title: Coding
+
+  # items within a category
+  portfolioitem:
+    - name: Personal website
+      image: '/images/website.png'
+      link: http://v98189wg.beget.tech
+      description: 'Project created during Computer Science fundamentals. Build with HTML, CSS, JavaScript, and PHP'
+      tags:
+        - IT
+        - Programming
+      status: 'On air'
+      start: '2020'
+      # end: '2021'
+      authors:
+        - Margo
+
+# portfolio category
+- title: Community
+
+  # items within a category
+  portfolioitem:
+
+    - name: Podcast Сложно быть джуном (RU)
+      image: '/images/cover.png'
+      link: https://open.spotify.com/show/6EU0ZwF3twyWbWon5bkjN1
+      description: 'On the podcast we share our experiences of studying, changing careers and finding a job. By listening to our podcast, you will learn what difficulties we faced as junior developers on our way to IT and how we overcame them. We talk honestly about our experience. We invite guests to hear more inspiring stories of entering to different tech field'
+      tags:
+        - IT
+        - Podcast
+      status: 'On air'
+      start: '2023'
+      authors:
+        - Margo
+        - Irina
+
+    - name: Soft skills / behavioral mock-interview 
+      image: '/images/interview.png'
+      # link: 
+      description: 'Сonduct mock interview sessions for Junior and Middle tech professionals. Analyze typical questions and provide feedback'
+      link: https://docs.google.com/forms/d/e/1FAIpQLSdSeiPvcyLiqldi_UQf-dZtro_sBUZ4IcdnbFOhICzJ7zMj8w/viewform?usp=sf_link
+      tags:
+        - IT
+        - Community
+      status: 'On air'
+      start: '2023'
+      # end: '2021'
+      authors:
+        - Margo
+        - Stasq

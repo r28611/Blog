@@ -1,0 +1,25 @@
+author = "Margo Novokh"
+profilePicture = "images/profile.png"
+customJs = ["http://cdn.exmple.org/fancyscript.js"]
+# keywords = ""
+# favicon = "favicons/"
+# example ["css/custom.css"]
+# customCss = []
+# example ["js/custom.js"]
+# customJs = [] 
+# mainSections = ["posts"]
+readMore = true
+languageCode = "en"
+DefaultContentLanguage = "en"
+relatedPosts = true
+numberOfRelatedPosts = 3
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80

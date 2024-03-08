@@ -1,0 +1,26 @@
+baseURL = 'http://r28611.github.io'
+
+[module]
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Margarita N"
+url = "https://www.linkedin.com/in/margonovokh/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "r28611"
+url = "https://github.com/r28611"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "email"
+url = "mailto:margo.novokh@gmail.com"

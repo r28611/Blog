@@ -1,0 +1,30 @@
+[[main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
+
+[[main]]
+name = "Topics"
+weight = 200
+identifier = "posts"
+url = "/categories/"
+
+[[main]]
+name = "Job"
+weight = 500
+identifier = "job"
+url = "/categories/job/"
+parent = "posts"
+
+[[main]]
+name = "Projects"
+weight = 300
+identifier = "portfolio"
+url = "/portfolio/"
+
+[[main]]
+name = "About"
+weight = 500
+identifier = "about"
+url = "/about/"
